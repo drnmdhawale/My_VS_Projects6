@@ -1,0 +1,9 @@
+c:\users\shree\documents\visual studio 2013\Projects\String Variables\String Variables\bin\Debug\String Variables.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\String Variables\String Variables\bin\Debug\String Variables.exe
+c:\users\shree\documents\visual studio 2013\Projects\String Variables\String Variables\bin\Debug\String Variables.pdb
+c:\users\shree\documents\visual studio 2013\Projects\String Variables\String Variables\obj\Debug\String Variables.csprojResolveAssemblyReference.cache
+c:\users\shree\documents\visual studio 2013\Projects\String Variables\String Variables\obj\Debug\String_Variables.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\String Variables\String Variables\obj\Debug\String_Variables.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\String Variables\String Variables\obj\Debug\String Variables.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\String Variables\String Variables\obj\Debug\String Variables.exe
+c:\users\shree\documents\visual studio 2013\Projects\String Variables\String Variables\obj\Debug\String Variables.pdb

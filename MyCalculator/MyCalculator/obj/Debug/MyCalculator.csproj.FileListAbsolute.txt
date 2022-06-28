@@ -1,0 +1,9 @@
+c:\users\shree\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+c:\users\shree\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+c:\users\shree\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+c:\users\shree\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+c:\users\shree\documents\visual studio 2013\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb

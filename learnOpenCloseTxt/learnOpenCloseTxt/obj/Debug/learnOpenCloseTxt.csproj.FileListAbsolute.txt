@@ -1,0 +1,9 @@
+c:\users\shree\documents\visual studio 2013\Projects\learnOpenCloseTxt\learnOpenCloseTxt\bin\Debug\learnOpenCloseTxt.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\learnOpenCloseTxt\learnOpenCloseTxt\bin\Debug\learnOpenCloseTxt.exe
+c:\users\shree\documents\visual studio 2013\Projects\learnOpenCloseTxt\learnOpenCloseTxt\bin\Debug\learnOpenCloseTxt.pdb
+c:\users\shree\documents\visual studio 2013\Projects\learnOpenCloseTxt\learnOpenCloseTxt\obj\Debug\learnOpenCloseTxt.csprojResolveAssemblyReference.cache
+c:\users\shree\documents\visual studio 2013\Projects\learnOpenCloseTxt\learnOpenCloseTxt\obj\Debug\learnOpenCloseTxt.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\learnOpenCloseTxt\learnOpenCloseTxt\obj\Debug\learnOpenCloseTxt.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\learnOpenCloseTxt\learnOpenCloseTxt\obj\Debug\learnOpenCloseTxt.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\learnOpenCloseTxt\learnOpenCloseTxt\obj\Debug\learnOpenCloseTxt.exe
+c:\users\shree\documents\visual studio 2013\Projects\learnOpenCloseTxt\learnOpenCloseTxt\obj\Debug\learnOpenCloseTxt.pdb
